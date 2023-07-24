@@ -1,0 +1,11 @@
+// export const HOME = "/";
+export const LOGIN = '/';
+export const CONTACT = '/contact';
+export const REGISTER = '/auth/register';
+export const DASHBOARD = '/dashboard';
+export const FEEDBACK_FORM = `${DASHBOARD}/feedback-form`;
+export const STUDENT_DASHBOARD = `${DASHBOARD}/student`;
+export const EDIT_DETAILS = `${DASHBOARD}/student/edit-details`;
+export const DEPARTMENT_DASHBOARD = `${DASHBOARD}/department`;
+export const ADMIN_DAHSBOARD = `${DASHBOARD}/admin`;
+export const DEPARTMENT_FORM = `/department/due-form`;
